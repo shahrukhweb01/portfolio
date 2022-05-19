@@ -1,0 +1,127 @@
+body {
+    font-family: 'Odibee Sans', cursive;
+}
+
+.name {
+    font-size: 2em;
+    position: absolute;
+    top: 34px;
+    left: 36px;
+    background-color: black;
+    color: whitesmoke;
+
+}
+.king{
+    font-size: 2em;
+    position: absolute;
+    top: 34px;
+    left: 178px;
+}
+.name:hover{
+    color: gray;
+}
+
+.nav {
+    position: absolute;
+    top: 34px;
+    right: 36px;
+    background-color: black;
+    color: white;
+    width: 548px;
+}
+
+.nav ul li {
+    float: right;
+    margin: 0px;
+    padding: 6px;
+    list-style: none;
+
+}
+ li:hover{
+     color: gray;
+ }
+
+.pic {
+    width: 200px;
+
+}
+
+.mainimg {
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 474px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    border-radius: 30px;
+}
+
+.actor {
+    position: absolute;
+    right: 382px;
+    top: 192px;
+    font-size: 36px;
+}
+
+.bio {
+    width: 387px;
+    position: absolute;
+    top: 243px;
+    right: 196px;
+}
+
+.raees {
+    border-radius: 20px;
+    position: absolute;
+    top: 489px;
+    right: 511px;
+    width: 54px;
+}
+ .see{
+    text-decoration: none;
+ }
+.more {
+    position: absolute;
+    top: 466px;
+    right: 538px;
+    
+}
+
+.first {
+    position: absolute;
+    top: 561px;
+    right: 524px;
+    text-decoration: none;
+}
+.rab {
+    position: absolute;
+    top: 488px;
+    right: 443px;
+    border-radius: 20px;
+    width: 53px;
+}
+
+.second {
+
+    position: absolute;
+    top: 562px;
+    right: 438px;
+    text-decoration: none;
+}
+
+.don2 {
+    position: absolute;
+    top: 487px;
+    right: 373px;
+    border-radius: 20px;
+    width: 50px;
+    ;
+}
+
+.third {
+    position: absolute;
+    top: 562px;
+    right: 384px;
+    text-decoration: none;
+ 
+}
